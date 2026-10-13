@@ -115,3 +115,14 @@ body {
     font-weight: 300px;
     font-size: 18px;
 }
+
+.rodape {
+    padding: 32px;
+    border-top: 0.4px solid rgba(255, 242, 231, 1);
+}
+
+.rodape-imagem {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
